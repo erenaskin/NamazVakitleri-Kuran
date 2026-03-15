@@ -31,12 +31,9 @@ Uygulama gücünü tamamen ücretsiz ve güvenilir olan iki farklı REST API'dan
 2. [Al Quran Cloud API](https://alquran.cloud/api): Kuran ayetleri, mealler, okunuşlar ve ses dosyaları için. (`ar.alafasy`, `tr.transliteration`, `tr.diyanet` edisyonları eşzamanlı çekilmiştir).
 
 ## 📱 Ekran Görüntüleri
-
-> *Not: Ekran görüntülerini eklemek için bu satırları kendi görsel linklerinizle güncelleyin.*
-
 | Ana Menü (Namaz Vakitleri) | Sure Listesi ve Arama | Ayetler ve Dinleme (Detay) |
 |:---:|:---:|:---:|
-| <img src="URL_YAZIN" width="250"> | <img src="URL_YAZIN" width="250"> | <img src="URL_YAZIN" width="250"> |
+| <img src="NamazVakitleri&Kuran/Assets.xcassets/ana_menu.png" width="500"> | <img src="NamazVakitleri&Kuran/Assets.xcassets/sure_listesi.png" width="500"> | <img src="NamazVakitleri&Kuran/Assets.xcassets/detay.png" width="500"> |
 
 ## 🚀 Kurulum
 
